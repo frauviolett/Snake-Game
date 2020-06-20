@@ -2,4 +2,4 @@
 
 Exercício de JavaScript - Curso 
 
-Scrpit Comentado
+Script Comentado
